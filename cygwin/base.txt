@@ -1,0 +1,17 @@
+aspell
+aspell-en
+dejavu-fonts
+file
+findutils
+libiconv
+openssh
+openssl
+python3
+python38-unidecode
+rsync
+sqlite3
+tar
+tcsh
+wget
+xorg-server
+xorg-x11-fonts-misc
