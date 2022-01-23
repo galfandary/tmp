@@ -7,7 +7,7 @@ libiconv
 openssh
 openssl
 python3
-python38-unidecode
+python39-unidecode
 rsync
 sqlite3
 tar
