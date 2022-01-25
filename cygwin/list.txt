@@ -73,8 +73,9 @@ libncursesw10,6.1-1.20190727
 libnettle6,3.4.1-1
 libnghttp2_14,1.46.0-1
 libntlm0,1.4-1
-libopenldap2_4_2,2.4.59-1
-libopenldap2_5_0,2.5.11-1
+libopenldap2,2.6.1-1
+libopenldap2_4_2,2.6.1-1
+libopenldap2_5_0,2.6.1-1
 libp11-kit0,0.23.20-1
 libpcre1,8.45-1
 libpcre2_8_0,10.39-1
