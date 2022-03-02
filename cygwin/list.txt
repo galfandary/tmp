@@ -15,7 +15,7 @@ diffutils,3.8-1
 dri-drivers,19.1.6-1
 editrights,1.03-1
 file,5.41-2
-findutils,4.8.0-1
+findutils,4.9.0-1
 gawk,5.1.1-1
 gnupg,1.4.23-1
 grep,3.7-2
@@ -87,7 +87,7 @@ libsasl2_3,2.1.27-1
 libsigsegv2,2.10-2
 libsqlite3_0,3.34.0-1
 libssh2_1,1.10.0-1
-libssl1.1,1.1.1l-2
+libssl1.1,1.1.1m-1
 libstdc++6,11.2.0-1
 libtasn1_6,4.14-1
 libtirpc-common,1.3.2-1
@@ -107,8 +107,8 @@ libxkbfile1,1.1.0-1
 libxml2,2.9.12-2
 libxxhash0,0.8.0-1
 libzstd1,1.5.2-1
-openssh,8.8p1-1
-openssl,1.1.1l-2
+openssh,8.9p1-1
+openssl,1.1.1m-1
 p11-kit,0.23.20-1
 p11-kit-trust,0.23.20-1
 perl_base,5.32.1-2
@@ -123,11 +123,11 @@ sed,4.8-1
 sqlite3,3.34.0-1
 sqlite3-vfslog,3.34.0-1
 tar,1.34-1
-tcsh,6.23.00-1
+tcsh,6.24.00-1
 terminfo,6.1-1.20190727
 tzcode,2021e-1
 tzdata,2021e-1
-wget,1.21.2-1
+wget,1.21.3-1
 xauth,1.1.1-2
 xcursor-themes,1.0.6-1
 xkbcomp,1.4.5-1
