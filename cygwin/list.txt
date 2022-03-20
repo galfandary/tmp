@@ -35,7 +35,7 @@ libbz2_1,1.0.8-1
 libcares2,1.14.0-1
 libcom_err2,1.44.5-1
 libcrypt2,4.4.20-1
-libcurl4,7.81.0-1
+libcurl4,7.82.0-1
 libdb5.3,5.3.28-2
 libedit0,20130712-1
 libexpat1,2.4.1-1
@@ -66,16 +66,15 @@ libkrb5_3,1.15.2-2
 libkrb5support0,1.15.2-2
 libllvm8,8.0.1-1
 liblz4_1,1.7.5-1
-liblzma5,5.2.4-1
+liblzma5,5.2.5-1
 libmetalink3,0.1.3-1
 libmpfr6,4.1.0-2
 libncursesw10,6.1-1.20190727
 libnettle6,3.4.1-1
-libnghttp2_14,1.46.0-1
+libnghttp2_14,1.47.0-1
 libntlm0,1.4-1
 libopenldap2,2.6.1-1
 libopenldap2_4_2,2.6.1-1
-libopenldap2_5_0,2.6.1-1
 libp11-kit0,0.23.20-1
 libpcre1,8.45-1
 libpcre2_8_0,10.39-1
@@ -87,7 +86,7 @@ libsasl2_3,2.1.27-1
 libsigsegv2,2.10-2
 libsqlite3_0,3.34.0-1
 libssh2_1,1.10.0-1
-libssl1.1,1.1.1m-1
+libssl1.1,1.1.1n-1
 libstdc++6,11.2.0-1
 libtasn1_6,4.14-1
 libtirpc-common,1.3.2-1
@@ -108,7 +107,7 @@ libxml2,2.9.12-2
 libxxhash0,0.8.0-1
 libzstd1,1.5.2-1
 openssh,8.9p1-1
-openssl,1.1.1m-1
+openssl,1.1.1n-1
 p11-kit,0.23.20-1
 p11-kit-trust,0.23.20-1
 perl_base,5.32.1-2
@@ -125,8 +124,8 @@ sqlite3-vfslog,3.34.0-1
 tar,1.34-1
 tcsh,6.24.00-1
 terminfo,6.1-1.20190727
-tzcode,2021e-1
-tzdata,2021e-1
+tzcode,2022a-1
+tzdata,2022a-1
 wget,1.21.3-1
 xauth,1.1.1-2
 xcursor-themes,1.0.6-1
@@ -135,6 +134,6 @@ xkeyboard-config,2.34-1
 xorg-server,21.1.3-1
 xorg-server-common,21.1.3-1
 xorg-x11-fonts-misc,7.5-4
-xz,5.2.4-1
+xz,5.2.5-1
 zlib0,1.2.11-1
 zstd,1.5.2-1
