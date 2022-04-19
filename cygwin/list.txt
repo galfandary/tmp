@@ -2,6 +2,7 @@ alternatives,1.3.30c-10
 aspell,0.60.8-1
 aspell-en,2017.08.24.0-1
 bash,4.4.12-3
+bc,1.06.95-2
 binutils,2.37-2
 bzip2,1.0.8-1
 ca-certificates,2021.2.52-1
@@ -44,7 +45,7 @@ libfido2,1.10.0-1
 libfontenc1,1.1.4-1
 libfreetype6,2.11.0-2
 libgcc1,11.2.0-1
-libgcrypt20,1.8.2-1
+libgcrypt20,1.10.1-1
 libgdbm6,1.18.1-1
 libgdbm_compat4,1.18.1-1
 libglapi0,19.1.6-1
@@ -135,5 +136,5 @@ xorg-server,21.1.3-1
 xorg-server-common,21.1.3-1
 xorg-x11-fonts-misc,7.5-4
 xz,5.2.5-1
-zlib0,1.2.11-1
+zlib0,1.2.12-1
 zstd,1.5.2-1

@@ -1,5 +1,6 @@
 aspell
 aspell-en
+bc
 dejavu-fonts
 file
 findutils
