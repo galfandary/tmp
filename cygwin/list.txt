@@ -3,7 +3,7 @@ aspell,0.60.8-1
 aspell-en,2017.08.24.0-1
 bash,4.4.12-3
 bc,1.06.95-2
-binutils,2.37-2
+binutils,2.38-1
 bzip2,1.0.8-1
 ca-certificates,2021.2.52-1
 coreutils,8.26-2
@@ -21,7 +21,7 @@ gawk,5.1.1-1
 gnupg,1.4.23-1
 grep,3.7-2
 gzip,1.11-1
-libX11_6,1.7.3.1-1
+libX11_6,1.8-1
 libXau6,1.0.9-1
 libXdmcp6,1.1.3-1
 libXext6,1.3.4-1
@@ -36,15 +36,15 @@ libbz2_1,1.0.8-1
 libcares2,1.14.0-1
 libcom_err2,1.44.5-1
 libcrypt2,4.4.20-1
-libcurl4,7.82.0-1
+libcurl4,7.83.0-1
 libdb5.3,5.3.28-2
 libedit0,20130712-1
 libexpat1,2.4.1-1
 libffi6,3.2.1-2
 libfido2,1.10.0-1
 libfontenc1,1.1.4-1
-libfreetype6,2.11.0-2
-libgcc1,11.2.0-1
+libfreetype6,2.12.1-1
+libgcc1,11.3.0-1
 libgcrypt20,1.10.1-1
 libgdbm6,1.18.1-1
 libgdbm_compat4,1.18.1-1
@@ -78,7 +78,7 @@ libopenldap2,2.6.1-1
 libopenldap2_4_2,2.6.1-1
 libp11-kit0,0.23.20-1
 libpcre1,8.45-1
-libpcre2_8_0,10.39-1
+libpcre2_8_0,10.40-1
 libpixman1_0,0.40.0-1
 libpng16,1.6.37-1
 libpsl5,0.21.1-1
@@ -88,7 +88,7 @@ libsigsegv2,2.10-2
 libsqlite3_0,3.34.0-1
 libssh2_1,1.10.0-1
 libssl1.1,1.1.1n-1
-libstdc++6,11.2.0-1
+libstdc++6,11.3.0-1
 libtasn1_6,4.14-1
 libtirpc-common,1.3.2-1
 libtirpc3,1.3.2-1
@@ -107,7 +107,7 @@ libxkbfile1,1.1.0-1
 libxml2,2.9.12-2
 libxxhash0,0.8.0-1
 libzstd1,1.5.2-1
-openssh,8.9p1-1
+openssh,9.0p1-1
 openssl,1.1.1n-1
 p11-kit,0.23.20-1
 p11-kit-trust,0.23.20-1
@@ -128,7 +128,7 @@ terminfo,6.1-1.20190727
 tzcode,2022a-1
 tzdata,2022a-1
 wget,1.21.3-1
-xauth,1.1.1-2
+xauth,1.1.2-1
 xcursor-themes,1.0.6-1
 xkbcomp,1.4.5-1
 xkeyboard-config,2.34-1
