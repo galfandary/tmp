@@ -6,11 +6,11 @@ bc,1.06.95-2
 binutils,2.38-1
 bzip2,1.0.8-1
 ca-certificates,2021.2.52-1
-coreutils,8.26-2
+coreutils,8.32-1
 crypto-policies,20190218-1
 csih,0.9.11-1
 cygrunsrv,1.62-1
-cygwin,3.3.4-2
+cygwin,3.3.5-1
 dejavu-fonts,2.37-1
 diffutils,3.8-1
 dri-drivers,19.1.6-1
@@ -36,7 +36,7 @@ libbz2_1,1.0.8-1
 libcares2,1.14.0-1
 libcom_err2,1.44.5-1
 libcrypt2,4.4.20-1
-libcurl4,7.83.0-1
+libcurl4,7.83.1-1
 libdb5.3,5.3.28-2
 libedit0,20130712-1
 libexpat1,2.4.1-1
@@ -123,7 +123,7 @@ sed,4.8-1
 sqlite3,3.34.0-1
 sqlite3-vfslog,3.34.0-1
 tar,1.34-1
-tcsh,6.24.00-1
+tcsh,6.24.01-1
 terminfo,6.1-1.20190727
 tzcode,2022a-1
 tzdata,2022a-1
